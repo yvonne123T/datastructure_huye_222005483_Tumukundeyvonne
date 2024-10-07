@@ -1,0 +1,5 @@
+#1.Create a list of names of people who attended a meeting, and add a new name to the list.
+
+attendant_names = ["John", "Peter","Grace"]
+attendant_names.append("Edith")
+print(attendant_names)
